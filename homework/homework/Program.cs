@@ -4,5 +4,3 @@ System.Console.WriteLine(string.Join(" ", result));
 //jklhsdfgklghsdfjknjbjksdfnjbkohsdfuiobhjuiosdopb
 
 //this is first line of text
-
-//added second text
