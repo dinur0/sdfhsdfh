@@ -6,5 +6,3 @@ System.Console.WriteLine(string.Join(" ", result));
 //this is first line of text
 
 //added second text
-
-//added third text
